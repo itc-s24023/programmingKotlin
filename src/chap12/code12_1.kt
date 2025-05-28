@@ -1,10 +1,11 @@
 package chap12
 
-import kotlin.random.Random
-
-fun main(){
-    val x = Random.nextInt(1, 5)
-    when(x){
-
+fun main() {
+    val x = "Hello"
+    when (x) {
+        "Good Morning" -> println("おはようございます")
+        "Hello" -> println("こんにちは")
+        "Good Evening" -> println("こんばんは")
+        else -> println("どうも！")
     }
-}    
+}
