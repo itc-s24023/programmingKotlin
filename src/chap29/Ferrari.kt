@@ -1,4 +1,4 @@
-package chap28
+package chap29
 
 class Ferrari(color: String) : Car(color) {
     override fun drive(d: Double) {
