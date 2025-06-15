@@ -1,6 +1,5 @@
 package chap50
 
-
 // code13_2 を置き換えてみる
 fun main() {
     val x = 5

@@ -1,6 +1,5 @@
 package chap50
 
-
 fun main() {
     val a = listOf(
         "こんにちは", "Kotlin", "どうぞ", "よろしく"
